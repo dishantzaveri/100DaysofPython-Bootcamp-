@@ -1,1 +1,0 @@
-paint_calc(height=test_h,width=test_w,covar=covarage)
